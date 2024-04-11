@@ -1,4 +1,4 @@
 # clone-tab-news
 ### Repositório destinado a estudo 
 
-### recriaço do tab news 
+### recriação do tab news, neste projeto, aprenderei o front e o back do projeto 
