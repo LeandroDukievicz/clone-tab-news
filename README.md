@@ -2,4 +2,6 @@
 
 ### Repositório destinado a estudo
 
-### recriação do tab news, neste projeto, aprenderei o front e o back do projeto
+### recriação do tab news, neste projeto, aprendendo o front e o back do projeto
+
+###
